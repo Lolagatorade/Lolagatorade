@@ -1,9 +1,5 @@
-Tool user. Interested in AI  and tools for onfuscation this will come in handy 
-
-Tools of interest:
-
-- Tor ( back door & Obfs network tools )
+- Tor ( Obfs tools )
 - networking 
-- AI
-- Deepfakes and facial recognitio 
+- AI art, video, language
+- Deepfakes and facial recognition
 - Audio AI and synthesis  
